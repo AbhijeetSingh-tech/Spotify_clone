@@ -1,2 +1,27 @@
-# Spotify_clone
-A responsive music streaming website built using HTML and CSS, inspired by Spotify’s clean and modern design. This project replicates the look and feel of Spotify’s interface with features like a music player layout, playlists section, and responsive design for different screen sizes.
+# 🎵 Spotify Clone
+
+A **responsive Spotify Clone** built using **HTML and CSS**, designed to replicate the look and feel of the original Spotify web interface.  
+This project focuses on clean UI design, responsive layout, and smooth user experience across devices.
+
+---
+
+## 🚀 Features
+
+- 🎧 Beautiful and responsive music player UI  
+- 📱 Fully responsive design for all screen sizes  
+- 🎵 Playlist and song layout similar to Spotify  
+- 💻 Built purely with **HTML** and **CSS** (no frameworks)  
+- 🎨 Custom styling inspired by Spotify’s dark theme  
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – for page structure  
+- **CSS3** – for styling and layout  
+- **Flexbox & Grid** – for responsive design  
+
+---
+
+## 📂 Project Structure
+
